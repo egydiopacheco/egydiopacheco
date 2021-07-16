@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [C 00 - General tips](/2021/07/15/General-Tips-3/)
-- [Shell 01 - General tips](/2021/07/14/General-Tips-2/)
-- [Shell 00 - General tips](/2021/07/13/General-Tips/)
+- [C 00 - General tips](https:egydiopacheco.github.io/blog/2021/07/15/General-Tips-3/)
+- [Shell 01 - General tips](https:egydiopacheco.github.io/blog/2021/07/14/General-Tips-2/)
+- [Shell 00 - General tips](https:egydiopacheco.github.io/blog/2021/07/13/General-Tips/)
 <!-- BLOG-POST-LIST:END -->
