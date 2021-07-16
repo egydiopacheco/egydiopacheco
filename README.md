@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [C 00 - General tips](/2021/07/15/General-Tips-3/)
 - [Shell 01 - General tips](/2021/07/14/General-Tips-2/)
