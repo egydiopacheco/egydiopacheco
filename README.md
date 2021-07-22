@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C 01 - General tips](/2021/07/22/General-Tips-4/)
 - [C 00 - General tips](/2021/07/15/General-Tips-3/)
 - [Shell 01 - General tips](/2021/07/14/General-Tips-2/)
 - [Shell 00 - General tips](/2021/07/13/General-Tips/)
