@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- λ: I’m currently working on:
+- λ(func projects -> list link projects):
   - [C- compiler in Ocaml](https://github.com/egydiopacheco/C-minus-compiler)
   - [Get next line](https://github.com/egydiopacheco/GNL)
 <!--
