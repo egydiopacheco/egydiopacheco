@@ -2,7 +2,7 @@
 
 - λ(func projects → list link projects):
   - [C- compiler in Ocaml](https://github.com/egydiopacheco/C-minus-compiler)
-  - [Get next line](https://github.com/egydiopacheco/FdF)
+  - [A 3D wireframe viewer](https://github.com/egydiopacheco/FdF)
 <!--
 **egydiopacheco/egydiopacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
